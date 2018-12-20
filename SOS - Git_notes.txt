@@ -1,0 +1,15 @@
+Initialization
+--------------
+
+1. We change to the directory we desire
+
+2. We type 'git init' in Terminal. A '.git' folder is created. It is hidden and we can see it if we type 'ls -a' in Terminal. The folder that the '.git' folder resides, is called 'the working directory'.
+
+
+Tracking changes to files
+-------------------------
+
+'Staging area'
+The intermediate place between the working directory and the online repository. If no previous 'add' has been performed, all files in the directory will be named 'untracked' if we type a 'git status' order in Terminal.
+
+
